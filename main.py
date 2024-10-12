@@ -139,12 +139,12 @@ class Notepad:
           credits_window.title("Credits")
           credits_window.geometry("300x100")
           
-          credits_text = "Notepad Python\n\nDeveloped by: Mycodespace.dev\nVersion: 1.0"
+          credits_text = "Notepad Python\n\nDeveloped by: Mango's Page at Mycodespace.dev\nVersion: 1.0"
           credits_label = tk.Label(credits_window, text=credits_text, justify=tk.CENTER)
           credits_label.pack(expand=True)
 
       def open_github(self):
-          webbrowser.open("https://github.com/MangosPage/Notepad-Python")
+          webbrowser.open("https://github.com/MangosPage/NotepadPython")
 
       def highlight_text(self):
           try:
