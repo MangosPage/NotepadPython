@@ -12,3 +12,7 @@ PIP&PYTHON required
    <code>pip install webbrowser</code>
    2. Install json in command prompt
    <code>pip install json</code>
+2. Install font in command prompt
+   <code>pip install font</code>
+   2. Install ttk in command prompt
+   <code>pip install ttk</code>
